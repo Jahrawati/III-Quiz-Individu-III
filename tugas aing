@@ -1,0 +1,27 @@
+# tugas-4
+
+TUTORIAL INSTALL FLOWGORITHM
+1.Masuk ke situs pencarian  http://www.flowgorithm.org/ lalu klik Download
+2.Setelah memilih menu Download pilih versi program yang sesuai dengan sistem yang 
+teman-teman gunakan untuk mendownload flowgorithm.Contohnya,saya menggunakan versi 
+Windowa 10 64-bit,maka saya memilih Windows 64-bit.
+Kemudian komputer akan mulai mendownload file dengan format Flowgorithm-versi-64-Setup.zip.
+3.Setelah proses oengunduhan selesai ekstrak file zip dan pilih setup untuk menjalankan instalasi.
+4.Kemudian ikuti proses instalasi hingga selsesai.Tidak ada menu yang perlu di setting kita cukup menceklis pilihan I Agree lalau klik Next.
+5.Nah kini software flogarthm sudah tuntas terinstal di Windows teman-teman.
+
+TUTORIAL MEMBUAT HELLO WORLD MENGGUNAKAN FLOWGARITHM
+1.Buka program flowgarithm,Kemudian klik menu Tools – Layout Windows, Pilih Code & Console.
+2.Lalu pada jendela Source Code Viewer, klik tanda panah ke bawah lalu klik Pascal.
+3.Nah,perhatikan flowchart dasar yang sudah disiapkan. Ada simbol berlabel Main (awal program)
+dan End (akhir program) di sana, dihubungkan oleh sebuah garis bertanda panah berwarna hitam.
+Klik pada garis panah tersebut, lalu pilih simbol Output/keluaran. Otomatis simbol Output 
+akan ditambahkan di antara simbol Main dan End sebelumnya.
+Secara flowchart, ini berarti kita menambahkan perintah output di antara awal dan akhir program.
+4.Nah, Dobel klik pada simbol Output, lalu ketikkan “Hello World” (termasuk tanda petik ganda), dan klik tombol OK.
+Jadi pada langkah ini, kita menentukan apa yang hendak di-output-kan oleh flowchart ke layar. Yaitu tulisan “Hello World”.
+5.Kemudian untuk melihat hasilnya, perhatikan jendela Console. Klik pada ikon panah hijau. Tulisan “Hello World” akan otomatis muncul di sana.
+6.Terakhir, perhatikan jendela Source Code Viewer. Flowchart Hello World yang baru saja 
+kita buat ternyata sudah auto dijadikan source code dalam bahasa Pascal oleh Flowgorithm.
+
+Nahh sekian tutor nya teman-teman,semoga bermanfaat yah..
